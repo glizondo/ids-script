@@ -1,0 +1,4 @@
+.venv
+.idea
+intrusion_detector.log
+whitelisted_ips.txt
